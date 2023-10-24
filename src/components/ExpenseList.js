@@ -23,5 +23,5 @@ const ExpenseList = () => {
         </table>
     );
 };
-
+ 
 export default ExpenseList; 
