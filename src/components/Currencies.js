@@ -1,6 +1,6 @@
 import React, {useContext} from 'react';
 import {AppContext} from '../context/AppContext'; 
-import { Currency } from './currency';
+import { Currency } from './Currency';
 
 const Currencies = (props) => {
     const {currencies} = useContext(AppContext);

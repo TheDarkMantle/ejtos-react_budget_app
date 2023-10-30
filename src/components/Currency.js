@@ -4,4 +4,4 @@ const Currency = (props) => {
     return (<option value={props.symbol}>{props.symbol} {props.name}</option>);
 };
 
-export default Currency;
+export {Currency};
